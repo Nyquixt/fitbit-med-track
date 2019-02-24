@@ -1,0 +1,25 @@
+text {
+  font-size: 32;
+  font-family: Seville-Regular;
+  font-weight: regular;
+  text-length: 32;
+  x: 12;
+}
+
+.tile-list-item {
+  height: 88;
+}
+
+.tile-list-item text {
+  font-family: Seville-Regular;
+  /* fill: "limegreen"; */
+}
+
+.tile-divider-bottom {
+  x: 0;
+  y: 100%-2;
+  width: 100%;
+  height: 2;
+  /* fill: "lime"; */
+}
+
